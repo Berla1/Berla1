@@ -1,5 +1,8 @@
-## Opa, tudo bem? Me chamo Gustavo Berlanga
-Apaixonado pela tecnologia, atualmente cursando bacharelado em Engenharia de Software na instituição de ensino FIAP. Tive o meu primeiro contato com programação em 2019, desde então busco evoluir meus conhecimentos. Atualmente focado em aprimorar habilidades em desenvolvimento front-end.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&&vCenter=true&width=1000&lines=Opa,+tudo+bem?+Me+chamo+Gustavo+Berlanga)](https://git.io/typing-svg)
+
+
+
+Com 18 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bacharelado em Engenharia de Software na instituição de ensino FIAP. Tive o meu primeiro contato com programação em 2019, desde então busco evoluir meus conhecimentos. Atualmente focado em aprimorar habilidades em desenvolvimento front-end.
 
 ## Fale comigo!
 <div display="flex">
