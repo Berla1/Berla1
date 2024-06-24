@@ -1,23 +1,16 @@
-## Hi there 👋
+## Opa, tudo bem? Me chamo Gustavo Berlanga
+Apaixonado pela tecnologia, atualmente cursando bacharelado em Engenharia de Software na instituição de ensino FIAP. Tive o meu primeiro contato com programação em 2019, desde então busco evoluir meus conhecimentos. Atualmente focado em aprimorar habilidades em desenvolvimento front-end.
 
-<!--
-**Berla1/Berla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fale comigo!
+<div display="flex">
+  <a href="https://www.instagram.com/berla1__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-berlanga-915467164/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berla1&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berla1&layout=compact&show_icons=true&theme=react)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berla1&show_icons=true&theme=react)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berla1&layout=compact&show_icons=true&theme=react)  
 
 **Tecnologias**
 <div display="flex">
@@ -26,6 +19,8 @@ Here are some ideas to get you started:
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+
 </div>
 
 
