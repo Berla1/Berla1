@@ -19,6 +19,7 @@ Com 19 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bac
 
 **Tecnologias**
 <div display="flex">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <!--TypeScript-->
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <!-- React -->
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" /> <!-- Java -->
   <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <!-- Python -->
