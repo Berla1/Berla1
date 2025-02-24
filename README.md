@@ -4,7 +4,7 @@
 
 
 
-Com 19 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bacharelado em Engenharia de Software na instituição de ensino FIAP. Tive o meu primeiro contato com programação em 2019, desde então busco evoluir meus conhecimentos. Atualmente focado em aprimorar habilidades em back-end.
+Com 19 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bacharelado em Engenharia de Software na instituição de ensino FIAP. Tive o meu primeiro contato com programação em 2020, desde então busco evoluir meus conhecimentos. Atualmente focado em aprimorar habilidades em back-end.
 
 ## Fale comigo!
 <div display="flex">
