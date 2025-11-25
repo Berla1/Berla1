@@ -8,7 +8,6 @@ Com 19 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bac
 
 ## Fale comigo!
 <div display="flex">
-  <a href="https://www.instagram.com/berla1__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-berlanga-915467164/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
