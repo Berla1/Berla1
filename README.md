@@ -11,10 +11,6 @@ Com 19 anos sou apaixonado pela tecnologia e inovação, atualmente cursando bac
   <a href="https://www.linkedin.com/in/gustavo-berlanga-915467164/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-## GitHub Stats
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berla1&show_icons=true&theme=react)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berla1&layout=compact&show_icons=true&theme=react)  
 
 **Tecnologias**
 <div display="flex">
